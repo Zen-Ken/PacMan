@@ -1,11 +1,7 @@
-# PacMan
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# PacMen
+In this project, I play with manipulating the DOM. Using JavaScript, I can dynamically create DOM elements. This is how additional PacMan objects are added. Using the top and left properties, I manipulate and move the Pac-Man around the window. When the Pac-man reaches the borders of the webpage, a collision will be detected and the Pac-man will reverse course.
 
 <img src="PacMan1.png">
 
 # Road Map
+As a fan of game my plans for this project is to build in logci to create a Pac-Man replicated.  This will require adding user control to the project with javascript.  Once has been created Including the ghost fromt the orginal game Blinky, Pinky, Inky, and Clyde.  This will also include
