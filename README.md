@@ -4,4 +4,4 @@ In this project, I play with manipulating the DOM. Using JavaScript, I can dynam
 <img src="PacMan1.png">
 
 # Road Map
-As a fan of game my plans for this project is to build in logci to create a Pac-Man replicated.  This will require adding user control to the project with javascript.  Once has been created Including the ghost fromt the orginal game Blinky, Pinky, Inky, and Clyde.  This will also include
+As a gamer, my plan for this project is to incorporate logic to create a Pac-Man replica. This will require adding user control to the project with Javascript. Once has been created, including the ghost from the original game, Blinky, Pinky, Inky, and Clyde.
